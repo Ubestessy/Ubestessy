@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Ubestessy/Ubestessy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Obianuju Ubendu · Ubestify Automations
 
-Here are some ideas to get you started:
+I build client onboarding automations for coaches and agencies.
+A client pays, and folders, CRM, welcome email, access and team alerts handle themselves.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Results**
+- Onboarding cut from 3 hours to 60 seconds
+- 90% fewer onboarding delays for a US digital agency
+- 91% faster response to incoming sales leads
+- 15+ hours saved per week
+
+**Tools:** Make · n8n · Zapier · Airtable · Notion · And your current stack 
+
+**Work with me**
+- DM "SYSTEM" on [LinkedIn](https://www.linkedin.com/in/obianujuubendu) and I'll map where your stack breaks
+- [Book a 30-min call](https://calendly.com/obianujuubendu/30min)
+
+**Repos:** [onboarding-automation-skill](https://github.com/Ubestessy/onboarding-automation-skill)
